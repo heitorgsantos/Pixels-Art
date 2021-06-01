@@ -1,0 +1,32 @@
+.color-red {
+  background-color: #A42621;
+  ;
+  
+}
+.color-green {
+  background-color: #275F23;
+}
+.color-blue {
+  background-color: #ECBF38;
+
+}
+.color-black{
+  background-color: black;
+}
+
+.color{
+  width: 30px;
+  height: 30px;
+  border: 1px solid black;
+  display: inline-block;
+  
+}
+#color-palette {
+ margin-left: auto;
+ margin-right: auto;
+ width: max-content
+
+}
+#title {
+  text-align: center;
+}

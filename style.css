@@ -1,7 +1,8 @@
+.color-black{
+  background-color: black;
+}
 .color-red {
   background-color: #A42621;
-  ;
-  
 }
 .color-green {
   background-color: #275F23;
@@ -10,16 +11,23 @@
   background-color: #ECBF38;
 
 }
-.color-black{
-  background-color: black;
-}
-
 .color{
   width: 30px;
   height: 30px;
   border: 1px solid black;
+  display: inline-block; 
+}
+estilo de 
+.coluna{
+  width: 35px;
+  height: 35px;
+  border: 1px solid black;
   display: inline-block;
   
+}
+.line {
+  width: 35px;
+  height: 30px;
 }
 #color-palette {
  margin-left: auto;
@@ -29,4 +37,16 @@
 }
 #title {
   text-align: center;
+}
+.table {
+  width: 35px;
+  height: 35px;
+}
+table, td ,th {
+  border: 1px solid black;
+  margin: auto;
+}
+table{
+  width: auto;
+ 
 }

@@ -49,3 +49,8 @@
 body {
   background-color: tomato;
 }
+
+#clear-board {
+  flex-direction: column;
+  justify-content: center; 
+}
